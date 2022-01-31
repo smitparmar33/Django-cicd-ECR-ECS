@@ -1,6 +1,7 @@
 #https://www.section.io/engineering-education/django-docker/
 #https://www.youtube.com/watch?v=gAkwW2tuIqE
 #https://towardsdatascience.com/deploying-a-docker-container-with-ecs-and-fargate-7b0cbc9cd608
+#https://faun.pub/setting-up-ci-cd-using-docker-aws-ecr-and-github-actions-part-1-66d7dc640e4d
 FROM python:3.8.3-alpine
 
 # set work directory
