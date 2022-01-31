@@ -2,9 +2,9 @@
 # Controls when the workflow will run
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 name: poll-app Project `my-app` CI on ECR
 
